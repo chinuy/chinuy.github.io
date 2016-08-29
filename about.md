@@ -1,11 +1,20 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+> Looking for Internship
 
-### More Information
+```
+Code hard and Dream big.
+```
+Great to meet you!
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a PhD student currently living in College Station, Texas. 
+Serverless paradigm and Internet-of-Things are my research topic.
+
+I love new technologies. 
+Besides, I run a startup with my friends.
+
+If you’d like to get in touch, feel free to say hello through any of the social links.
