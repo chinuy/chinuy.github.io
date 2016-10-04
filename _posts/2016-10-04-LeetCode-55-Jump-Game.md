@@ -1,0 +1,16 @@
+---
+layout: post
+title: LeetCode #55 Jump Game
+tag: leetcode, code
+---
+
+[#55 Jump Game](https://leetcode.com/problems/jump-game/)
+
+> Given an array of non-negative integers, you are initially positioned at the first index of the array.
+  Each element in the array represents your maximum jump length at that position.
+  Determine if you are able to reach the last index.
+  For example:
+  A = [2,3,1,1,4], return true.
+  A = [3,2,1,0,4], return false.
+  
+My first submission was *Time Limit Exceeded* so I came up three types of algorithm for this problem.
